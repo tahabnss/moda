@@ -1,0 +1,6 @@
+{
+  "name": "MODA STORE",
+  "description": "An elegant, high-contrast, contemporary Arabic fashion boutique app for luxury apparel, accessories, and shoes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
